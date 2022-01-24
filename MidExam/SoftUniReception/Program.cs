@@ -1,6 +1,6 @@
-﻿using System;
+using System;
 
-namespace SoftUniRecetion
+namespace SoftUniReception
 {
     class Program
     {
